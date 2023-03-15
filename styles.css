@@ -12,10 +12,17 @@
 }
 
 .bottom-container {
-  background-color: green;
+  background-color: yellow;
 }
 
-/*.container {
-  margin: 0;
-  padding: 0; 
+/*
+.container {
+  background-color: green;
 } */ 
+
+.col {
+  padding: 20px;
+  border: 20px; 
+  margin: 20px;
+  background-color: green; 
+}
