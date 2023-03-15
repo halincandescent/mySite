@@ -1,0 +1,16 @@
+* {
+  margin:0;
+  padding:0; 
+}
+
+.top-container {
+  background-color: red;
+}
+
+.middle-container {
+  background-color: blue;
+}
+
+.bottom-container {
+  background-color: green;
+}
