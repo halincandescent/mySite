@@ -4,27 +4,27 @@
 }
 
 .top-container {
-  background-color: red;
+  background-color: #F6F1F1;
 }
 
 .middle-container {
-  background-color: blue;
+  background-color: #19A7CE;
 }
 
 .bottom-container {
-  background-color: yellow;
+  background-color: #146C94;
 }
 
 /*
 .container {
-  background-color: green;
+  background-color: #000000;
 } */ 
 
 .col {
   padding: 20px;
   border: 20px; 
   margin: 20px;
-  background-color: black; 
+  background-color: #000000; 
 }
 
 .footer-name {
@@ -35,4 +35,20 @@
 .bottom-img {
   height: 200px;
   width: 200px; 
+}
+
+.navbar-brand {
+  color: red; 
+}
+
+.nav-link {
+  color: red; 
+}
+
+.navbar-toggler {
+  background-color: green;
+}
+
+.mid {
+  background-color: white; 
 }
