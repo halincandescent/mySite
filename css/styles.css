@@ -83,10 +83,7 @@ p {
 
 /* Title Image */
 
-.title-image {
-  /* margin: 0 30px; */ 
-  width: 60%;
-  /*transform: rotate(25deg);*/ 
+.title-image { 
   position: relative;
   right: 30%;
 }
