@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  color: #8f8f8f;
+  color: #408E91;
 }
 
 /* Headings */
@@ -34,7 +34,7 @@ p {
 /* Sections */
 
 .colored-section {
-  background-color: #19A7CE;
+  background-color: #539165;
   color: #fff;
 }
 
@@ -73,7 +73,7 @@ p {
 /* Title Section */
 
 #title {
-  background-color: #19A7CE;
+  background-color: #539165;
   color: #fff;
   text-align: left;
 }
@@ -129,7 +129,7 @@ p {
 
 
 #unused1 {
-  background-color: #146C94;
+  background-color: #539165;
   padding-bottom: 3%;
 }
 
@@ -173,4 +173,8 @@ p {
     position: static;
     transform: rotate(0);
   }
+}
+
+.coloured-section-p {
+  color: #E49393 ;
 }
