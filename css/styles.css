@@ -121,7 +121,7 @@ p {
   line-height: 1.5;
 }
 
-.testimonial-image {
+.hobby-img {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -161,6 +161,10 @@ p {
 
 .social-icon {
   margin: 20px 10px;
+}
+
+.carousel-img {
+  text-align: center; 
 }
 
 @media (max-width: 1028px) {
