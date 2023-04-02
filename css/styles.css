@@ -110,13 +110,13 @@ p {
   color: #ff4c68;
 }
 
-/* Testimonial Section */
+/* Hobby Section */
 
 #carouselSlide {
   background-color: #146C94;
 }
 
-.testimonial-text {
+.hobby-text {
   font-size: 3rem;
   line-height: 1.5;
 }
@@ -161,10 +161,6 @@ p {
 
 .social-icon {
   margin: 20px 10px;
-}
-
-.carousel-img {
-  text-align: center; 
 }
 
 @media (max-width: 1028px) {
