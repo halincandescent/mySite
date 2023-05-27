@@ -88,8 +88,8 @@
           <!-- <i class="icon fas fa-check-circle fa-4x"></i> -->
           <h3 class="about-title">Web Development</h3>
           <p>HTML, CSS (bootstrap)</p>
-          <p>Node.js, jQuery, Express.js, React.js, Django, Flask</p>
-          <p>Databases: sql, mongoDB</p> 
+          <p>Node.js, jQuery, Express.js, React.js, Django</p>
+          <p>Databases: SQL: sqlLite, noSQL: mongoDB; mongoose</p> 
         </div>
 
         <div class="about-box col-lg-4">
